@@ -1,6 +1,6 @@
 #!/bin/bash
 landmark
-Simon
+Mercy
 Dominion
 Ayo
 Obi
