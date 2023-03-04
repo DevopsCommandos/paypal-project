@@ -5,3 +5,5 @@ Dominion
 Ayo
 Obi
 Manager
+Legah
+Favour
